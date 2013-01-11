@@ -8,14 +8,13 @@ domain: dreamsky.github.com/JekyllDemo
 author: dreamsky
 email: lhb25@163.com
 auto: true
-twitterID: ycf
-duoshuoShortname: sync
+duoshuoShortname: jizhula.com
 navigation:
 - text: Home
   url: / 
 - text: Archive
-  url: /archive/
+  url: http://dreamsky.github.com/JekyllDemo/archive/
 - text: About
-  url: /about/
+  url: http://dreamsky.github.com/JekyllDemo/about/
 - text: Links
-  url: /links/
+  url: http://dreamsky.github.com/JekyllDemo/links/
