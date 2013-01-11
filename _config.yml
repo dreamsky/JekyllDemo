@@ -1,1 +1,42 @@
-baseurl: /JekyllDemo
+markdown: kramdown
+pygments: true
+safe: false
+permalink: /posts/:title.html
+exclude:
+  - README.md
+
+name: 梦想天空
+host: yourdomain.com
+desc: 梦想天空博客——演示
+
+custom:
+    category:
+        design: 网页设计
+        freebies: 精美素材
+	inspiration: 创意灵感
+	others: 其它文章
+    categories:
+      - name:  design
+        title: 网页设计
+
+      - name:  freebies
+        title: 精美素材
+
+      - name:  inspiration
+        title: 创意灵感
+
+      - name:  others
+        title: 其它文章
+
+meta:
+    author:
+        name: dreamsky
+        email: lhb25@163.com
+        disqus: your-disqus-short-name              # Disqus缩略标识
+        gcse: 000346898720731947188:13h55x32l0y     # Google自定义搜索标识ID
+        github: lhb25@163.com	                    # GitHub账号
+        gravatar: e0a86fa1a71b76cb4471218b3ee11d84  # Gravatar头像标识
+
+    disqus: disqus.com/embed.js                     # Disqus评论的JS地址
+    gapi: http://www.google.com/jsapi               # Google API地址
+    gravatar: http://en.gravatar.com/avatar/        # Gravatar头像服务器地址
