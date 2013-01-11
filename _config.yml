@@ -4,7 +4,7 @@ title: 梦想天空
 url: http://dreamsky.github.com/JekyllDemo
 subscribe: http://dreamsky.github.com/JekyllDemo/feed.xml
 exclude: [ README.md, newpost.rb ]
-domain: dreamsky.github.com
+domain: dreamsky.github.com/JekyllDemo
 author: dreamsky
 email: lhb25@163.com
 auto: true
