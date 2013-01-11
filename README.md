@@ -1,5 +1,5 @@
 Jekyll Blog Demo
 ======
 
-演示地址: https://dreamsky.github.com/JekyllDemo
+演示地址: http://dreamsky.github.com/JekyllDemo
 
