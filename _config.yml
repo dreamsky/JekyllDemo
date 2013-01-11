@@ -11,7 +11,7 @@ auto: true
 duoshuoShortname: jizhula
 navigation:
 - text: Home
-  url: / 
+  url: http://dreamsky.github.com/JekyllDemo/
 - text: Archive
   url: http://dreamsky.github.com/JekyllDemo/archive/
 - text: About
